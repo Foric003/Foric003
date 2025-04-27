@@ -1,8 +1,8 @@
 About Foric003
 --------------------------------------
 - 👋 Hi, I’m @Foric003
-- 👀 I’m interested in coding on python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding on python, c#, html
+- 🌱 I’m currently learning python, unity, html, blender
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -> rustam.niyazbekov@mail.ru or rustam.niyazbekov12@gmail.com
 
