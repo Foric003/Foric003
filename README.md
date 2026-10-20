@@ -1,6 +1,6 @@
-About theclor
+About Foric003
 --------------------------------------
-- 👋 Hi, I’m @theclor
+- 👋 Hi, I’m @Foric003
 - 👀 I’m interested in coding on python, c#, html
 - 🌱 I’m currently learning python, unity, html, blender
 - 💞️ I’m looking to collaborate on 
